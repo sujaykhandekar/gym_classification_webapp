@@ -1,0 +1,13 @@
+{
+	"1": "chest_press_machine",
+    "10": "elliptical_machine",
+    "100": "glut_ham_machine",
+    "101": "lat_pulldown_machine",
+    "102": "leg_extension_machine",
+    "11": "leg_press_machine",
+    "12": "leg_raise_machine",
+    "13": "peck_deck_machine",
+    "14": "rowing_machine",
+    "15": "smith_machine",
+    "16": "treadmill_machine"
+}
