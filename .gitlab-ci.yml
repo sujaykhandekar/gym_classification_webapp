@@ -4,4 +4,4 @@ stages:
 test:
   stage: test
   script: 
-    - echo "Success changed again!"
+    - echo "Success changed now again!"
