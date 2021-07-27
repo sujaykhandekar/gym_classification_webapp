@@ -1,4 +1,4 @@
-# Gym equipment classification
+# Gym Equipment Classification
 
 This repo contains code to create a flask based webapp to distinguish between different gym equipments from the pictures of equipments .  
 For using the web app go to this url https://gym-equipment-detector.herokuapp.com/
